@@ -2,9 +2,9 @@
 
 2024년도 한국정보산업연합회의 지원을 받아 한이음 프로젝트에 참여하여 개발한 AI 안저 질환 탐지 서비스입니다.
 
-FrontEnd : [@Gyeongse0](https://github.com/Gyeongse0) \
-DataBase : [@jiw3026](https://github.com/jiw3026) \
-BackEnd : [@YoonchulChung](https://github.com/Yoonchulchung)
+FrontEnd : [@김경서](https://github.com/Gyeongse0) \
+DataBase : [@박지원](https://github.com/jiw3026) \
+BackEnd : [@정윤철](https://github.com/Yoonchulchung)
 <!--
 
 **Here are some ideas to get you started:**
