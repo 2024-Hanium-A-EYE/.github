@@ -15,6 +15,10 @@ BackEnd : [정윤철](https://github.com/Yoonchulchung)
 - [Web BackEnd](https://github.com/2024-Hanium-A-EYE/AEYE_Router)
 - [AI](https://github.com/2024-Hanium-A-EYE/AEYE_AI)      
 
+Docker를 이용하여 서비스를 운영중인 환경에 영향 없이 AEYE 프로젝트가 동작할 수 있도록 설계되어 있습니다. 본 프로젝트는 AWS EC2 인스턴스 내부에서 서비스 운영을 했으며, 테라폼을 이용하여 AWS EC2 인스턴스 생성 관리를 하였습니다.     
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
