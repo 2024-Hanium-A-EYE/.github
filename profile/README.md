@@ -16,10 +16,9 @@ BackEnd : [정윤철](https://github.com/Yoonchulchung)
 - Django, Flask, Tensorflow를 활용하여 AEYE 프로젝트의 AI 서버를 제작하였습니다 :[AI](https://github.com/2024-Hanium-A-EYE/AEYE_AI)        
 - Djaongo를 활용하여 AEYE 프로젝트를 모니터링하는 서버를 제작하였습니다            :[Maintainer](https://github.com/2024-Hanium-A-EYE/AEYE_Maintainer)      
 
-Docker를 이용하여 서비스를 운영중인 환경에 영향 없이 AEYE 프로젝트가 동작할 수 있도록 설계되어 있습니다. 본 프로젝트는 AWS EC2 인스턴스 내부에서 서비스 운영을 했으며, 테라폼을 이용하여 AWS EC2 인스턴스 생성 관리를 하였습니다.     
+AEYE 프로젝트는 Docker를 사용하여 환경에 영향을 받지 않고 동작할 수 있도록 설계되었습니다. 본 프로젝트는 AWS EC2 인스턴스 내에서 서비스가 운영되었으며, AWS EC2 인스턴스의 생성 및 관리는 Terraform을 사용하여 수행했습니다.    
 
-
-AI 모델은 Tensorflow가 사용되었으며, AI가 추론한 데이터를 기반으로 GPT를 활용하여 진단에 도움이 되도록 설계했습니다. WEB Server와 AI Server는 다음과 같은 프레임워크를 기반으로 설계되어 있습니다.    
+AI 모델은 TensorFlow를 사용하였으며, AI가 추론한 데이터를 기반으로 GPT를 활용하여 진단에 도움이 되도록 설계했습니다. 웹 서버와 AI 서버는 다음과 같은 프레임워크를 기반으로 설계되었습니다.    
 
 AEYE 프로젝트 전체 프레임워크:     
 <p align="center">
