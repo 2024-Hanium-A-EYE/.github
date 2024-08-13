@@ -5,6 +5,16 @@
 FrontEnd : [김경서](https://github.com/Gyeongse0) \
 DataBase : [박지원](https://github.com/jiw3026) \
 BackEnd : [정윤철](https://github.com/Yoonchulchung)
+
+2024년 3월 ~ 2024년 8월까지 진행한 프로젝트입니다. 
+
+통합된 리포지토리입니다 : [AEYE](https://github.com/2024-Hanium-A-EYE/AEYE) | [AEYE WEB](https://github.com/2024-Hanium-A-EYE/AEYE-WEB)     
+
+세부 리포지토리 :     
+- [FrontEnd](https://github.com/2024-Hanium-A-EYE/AEYE-FE)
+- [Web BackEnd](https://github.com/2024-Hanium-A-EYE/AEYE_Router)
+- [AI](https://github.com/2024-Hanium-A-EYE/AEYE_AI)      
+
 <!--
 
 **Here are some ideas to get you started:**
